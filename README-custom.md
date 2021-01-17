@@ -1,6 +1,6 @@
-# no license required!
+# README Generator
 
-  
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
 
@@ -20,25 +20,25 @@
 
   ## Description
 
-  this is a project with no license
+  README Generator is a CLI program that creates a professional README markdown file based on user specifications.
 
   ## Installation
 
   ```bash
-  you install like this
+  npm i inquirer 
   ```
   ## Usage
 
-  here's how to use it
+  Run program by entering node index.js into the terminal.
 
   ## Contributing
 
-  you can contribute here
+  Contribute by reaching out to me via email. See Questions section.
 
   ## Tests
 
   ```bash
-  test test 123
+  node index.js
 
   ```
   ## Questions
@@ -47,5 +47,6 @@
 
   If you have questions, you can reach me via email at johnniesimpson88@gmail.com.
 
-  
+  ## Licenses
+ Licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0)
 

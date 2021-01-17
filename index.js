@@ -1,8 +1,11 @@
+// NPM Inquirer
 const inquirer = require('inquirer');
+// NPM File System
 const fs = require('fs');
-const genMarkdown = require('./utils/generateMarkdown');
+// Requires Generate Markdown file
 const generateMarkdown = require('./utils/generateMarkdown');
 
+// User prompts
 inquirer
   .prompt([
     {
@@ -52,9 +55,10 @@ inquirer
       message: 'Enter your email address',
     },
   ])
+  // Trigger file creation
   .then((response) => {
     let data = generateMarkdown(response);
-    fs.writeFile("README2.md", data, (err) =>
+    fs.writeFile("README-custom.md", data, (err) =>
       err ? console.log(err) : console.log('Success!')
     );
   });
