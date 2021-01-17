@@ -31,10 +31,15 @@ inquirer
       message: 'Enter contribution guidelines',
     },
     {
+      type: 'input',
+      name: 'tests',
+      message: 'Enter test instructions',
+    },
+    {
       type: 'list',
-      message: 'What is your preferred method of communication?',
-      name: 'contact',
-      choices: ['email', 'phone', 'telekinesis'],
+      message: 'Select a license if applicable',
+      name: 'license',
+      choices: ['Apache','Eclipse','GPL','IBM','LGPL','MIT', 'Mozilla', 'None'],
     },
   ])
   .then((response) => {
