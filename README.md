@@ -25,7 +25,7 @@ README Generator is a CLI program that creates a README.md file based on user in
 ## Screenshots
 
 ## Installation
-Installation instructions are for Linux operating systems. Other OS instructions coming soon.
+Installation instructions are for Ubuntu-based operating systems. Other OS instructions coming soon.
 
 1. Fork the repository. Click the fork button at the top right of this repo. 
 2. Clone the repository to your machine. Click the Clone button on your forked repo page, copy the SSH key. 
@@ -33,13 +33,32 @@ Installation instructions are for Linux operating systems. Other OS instructions
 ```
 git clone (SSH key you copied in step 2)
 ```
-
+4. Install Node.JS
+```
+sudo apt install nodejs
+```
+4. Install npm inquirer
+```
+npm i inquirer
+```
+5. Install npm file-system
+```
+npm install file-system --save
+```
+6. Execute program by entering under the forked file directory: 
+```
+node index.js
+```
 
 ## Usage
 
 ## Contributing 
 
 ## Tests 
+Test that you have the latest version of NodeJS:
+```
+node -v
+```
 
 ## Questions
 
