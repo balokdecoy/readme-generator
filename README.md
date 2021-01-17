@@ -24,6 +24,10 @@ README Generator is a CLI program that creates a README.md file based on user in
 
 ## Screenshots
 
+[Terminal](./screenshots/terminal-program.png)
+
+[Custom README](./screenshots/generated-readme.png)
+
 ## Installation
 Installation instructions are for Ubuntu-based operating systems. Other OS instructions coming soon.
 
