@@ -1,6 +1,6 @@
-# A Linux Project
+# Linux Project
 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Table of Contents
 
@@ -20,7 +20,7 @@
 
   ## Description
 
-  This is my linux backend project
+  this is a linux project
 
   ## Installation
 
@@ -29,15 +29,15 @@
   ```
   ## Usage
 
-  Use the program like this
+  use like this
 
   ## Contributing
 
-  Contribute here
+  contribute like that
 
   ## Tests
 
-  Test like this
+  test me
 
   ## Questions
 
@@ -45,5 +45,5 @@
 
   undefined
 
-  ![License: MIT](https://opensource.org/licenses/MIT)
+  [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
 
