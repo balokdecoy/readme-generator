@@ -56,6 +56,8 @@ node index.js
 
 ## Usage
 
+[View a program tutorial](https://www.youtube.com/watch?v=LBWWx2U2HU0&feature=youtu.be)
+
 [![Tutorial](https://img.youtube.com/vi/LBWWx2U2HU0/maxresdefault.jpg)](https://www.youtube.com/watch?v=LBWWx2U2HU0&feature=youtu.be)
 
 
