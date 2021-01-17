@@ -1,6 +1,6 @@
-# linuxproject
+# A Linux Project
 
-  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
 
@@ -20,24 +20,24 @@
 
   ## Description
 
-  describe me
+  This is my linux backend project
 
   ## Installation
 
   ```bash
-  install me
+  sudo apt install linuxproject
   ```
   ## Usage
 
-  use me
+  Use the program like this
 
   ## Contributing
 
-  contribute to me
+  Contribute here
 
   ## Tests
 
-  test me
+  Test like this
 
   ## Questions
 
@@ -45,5 +45,5 @@
 
   undefined
 
-  [![License: IPL 1.0](https://opensource.org/licenses/IPL-1.0)]
+  ![License: MIT](https://opensource.org/licenses/MIT)
 

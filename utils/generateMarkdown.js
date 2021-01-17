@@ -31,25 +31,25 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'Apache') {
-    return "[![License](https://opensource.org/licenses/Apache-2.0)]"
+    return "![License](https://opensource.org/licenses/Apache-2.0)"
   }
   if (license === 'Eclipse') {
-    return "[![License](https://opensource.org/licenses/EPL-1.0)]"
+    return "![License](https://opensource.org/licenses/EPL-1.0)"
   }
   if (license === 'GPL') {
-    return "[![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)]"
+    return "![License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)"
   }
   if (license === 'IBM') {
-    return "[![License: IPL 1.0](https://opensource.org/licenses/IPL-1.0)]"
+    return "![License: IPL 1.0](https://opensource.org/licenses/IPL-1.0)"
   }
   if (license === 'LGPL') {
-    return "[![License: LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)]"
+    return "![License: LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)"
   }
   if (license === 'MIT') {
-    return "[![License: MIT](https://opensource.org/licenses/MIT)]"
+    return "![License: MIT](https://opensource.org/licenses/MIT)"
   }
   if (license === 'Mozilla') {
-    return "[![License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)]"
+    return "![License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)"
   }
   if (license === 'None') {
     return ""
