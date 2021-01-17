@@ -1,6 +1,6 @@
-# linux
+# A Linux Project
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
 
   ## Table of Contents
 
@@ -20,31 +20,31 @@
 
   ## Description
 
-  describe
+  This is a linux application.
 
   ## Installation
 
   ```bash
-  install
+  sudo apt install linuxproject
   ```
   ## Usage
 
-  use
+  You can use it like this.
 
   ## Contributing
 
-  contribute
+  You can contribute here.
 
   ## Tests
 
-  test
+  Test like this.
 
   ## Questions
 
-  "Visit my Github profile at http://www.github.com/balokdecoy.
+  Visit my Github profile at http://www.github.com/balokdecoy.
 
   Reach me via email at johnniesimpson88@gmail.com.
-"
+
   ## Licenses
- Licensed under ${renderLicenseLink(response.license)}
+ Licensed under [MPL 2.0](https://opensource.org/licenses/MPL-2.0)
 

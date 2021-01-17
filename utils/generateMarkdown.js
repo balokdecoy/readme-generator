@@ -63,7 +63,7 @@ function renderLicenseSection(license) {
     return ""
   }
   else {
-    return '## Licenses\n Licensed under ${renderLicenseLink(response.license)}'
+    return `## Licenses\n Licensed under ${renderLicenseLink(license)}`
   }
 }
 
@@ -92,8 +92,8 @@ function generateMarkdown(response) {
   ## Tests\n
   ${response.tests}\n
   ## Questions\n
-  "Visit my Github profile at http://www.github.com/${response.githubProfile}.\n
-  Reach me via email at ${response.email}.\n"
+  Visit my Github profile at http://www.github.com/${response.githubProfile}.\n
+  Reach me via email at ${response.email}.\n
   ${renderLicenseSection(response.license)}\n
 `;
 }
