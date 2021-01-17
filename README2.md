@@ -1,6 +1,6 @@
-# Linux Project
+# linux project
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
 
@@ -20,20 +20,20 @@
 
   ## Description
 
-  this is a linux project
+  describe me
 
   ## Installation
 
   ```bash
-  sudo apt install linuxproject
+  install me
   ```
   ## Usage
 
-  use like this
+  use me
 
   ## Contributing
 
-  contribute like that
+  contribute me
 
   ## Tests
 
@@ -42,8 +42,5 @@
   ## Questions
 
   ## Licenses
-
-  undefined
-
-  [License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)
+ Licensed under ${renderLicenseLink(response.license)}.
 

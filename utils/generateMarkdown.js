@@ -31,25 +31,25 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license === 'Apache') {
-    return "[License](https://opensource.org/licenses/Apache-2.0)"
+    return "[Apache 2.0](https://opensource.org/licenses/Apache-2.0)"
   }
   if (license === 'Eclipse') {
-    return "[License](https://opensource.org/licenses/EPL-1.0)"
+    return "[Eclipse 1.0](https://opensource.org/licenses/EPL-1.0)"
   }
   if (license === 'GPL') {
-    return "[License: GPL v3](https://www.gnu.org/licenses/gpl-3.0)"
+    return "[GPL v3](https://www.gnu.org/licenses/gpl-3.0)"
   }
   if (license === 'IBM') {
-    return "[License: IPL 1.0](https://opensource.org/licenses/IPL-1.0)"
+    return "[IPL 1.0](https://opensource.org/licenses/IPL-1.0)"
   }
   if (license === 'LGPL') {
-    return "[License: LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)"
+    return "[LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)"
   }
   if (license === 'MIT') {
-    return "[License: MIT](https://opensource.org/licenses/MIT)"
+    return "[MIT](https://opensource.org/licenses/MIT)"
   }
   if (license === 'Mozilla') {
-    return "[License: MPL 2.0](https://opensource.org/licenses/MPL-2.0)"
+    return "[MPL 2.0](https://opensource.org/licenses/MPL-2.0)"
   }
   if (license === 'None') {
     return ""
@@ -59,7 +59,12 @@ function renderLicenseLink(license) {
 // TODO: Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-
+  if (license === 'None') {
+    return ""
+  }
+  else {
+    return "## Licenses\n Licensed under ${renderLicenseLink(response.license)}."
+  }
 }
 
 // TODO: Create a function to generate markdown for README
@@ -87,9 +92,7 @@ function generateMarkdown(response) {
   ## Tests\n
   ${response.tests}\n
   ## Questions\n
-  ## Licenses\n
   ${renderLicenseSection(response.license)}\n
-  ${renderLicenseLink(response.license)}\n
 `;
 }
 
