@@ -4,12 +4,19 @@
 
 ## Table of Contents
 -[Description](#description)
+
 -[Screenshots](#screenshots)
+
 -[Installation](#installation)
+
 -[Usage](#usage)
+
 -[Contributing](#contributing)
+
 -[Tests](#tests)
+
 -[Questions](#questions)
+
 -[Licenses](#licenses)
 
 ## Description
