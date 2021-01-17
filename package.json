@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A CLI program that creates a professional README according to user specifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('test')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balokdecoy/readme-generator.git"
+  },
+  "author": "Johnnie Simpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balokdecoy/readme-generator/issues"
+  },
+  "homepage": "https://github.com/balokdecoy/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
