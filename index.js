@@ -41,6 +41,16 @@ inquirer
       name: 'license',
       choices: ['Apache','Eclipse','GPL','IBM','LGPL','MIT', 'Mozilla', 'None'],
     },
+    {
+      type: 'input',
+      name: 'githubProfile',
+      message: 'Enter your Github username',
+    },
+    {
+      type: 'input',
+      name: 'email',
+      message: 'Enter your email address',
+    },
   ])
   .then((response) => {
     let data = generateMarkdown(response);

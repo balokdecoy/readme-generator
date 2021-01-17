@@ -1,6 +1,6 @@
-# linux project
+# linux
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Table of Contents
 
@@ -14,33 +14,37 @@
 
   - [Tests](#tests)
 
-  - [Licenses](#licenses)
-
   - [Questions](#questions)
+
+  - [Licenses](#licenses)
 
   ## Description
 
-  describe me
+  describe
 
   ## Installation
 
   ```bash
-  install me
+  install
   ```
   ## Usage
 
-  use me
+  use
 
   ## Contributing
 
-  contribute me
+  contribute
 
   ## Tests
 
-  test me
+  test
 
   ## Questions
 
+  "Visit my Github profile at http://www.github.com/balokdecoy.
+
+  Reach me via email at johnniesimpson88@gmail.com.
+"
   ## Licenses
- Licensed under ${renderLicenseLink(response.license)}.
+ Licensed under ${renderLicenseLink(response.license)}
 
