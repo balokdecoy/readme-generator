@@ -1,6 +1,6 @@
-# A Linux Project
+# My Linux Project
 
-  [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
 
@@ -20,7 +20,7 @@
 
   ## Description
 
-  This is a linux application.
+  This is my application for Linux.
 
   ## Installation
 
@@ -29,22 +29,22 @@
   ```
   ## Usage
 
-  You can use it like this.
+  You can use the program in a variety of ways.
 
   ## Contributing
 
-  You can contribute here.
+  Ask me about contributing to Linux Project!
 
   ## Tests
 
-  Test like this.
+  You can test the program by running some test code.
 
   ## Questions
 
   Visit my Github profile at http://www.github.com/balokdecoy.
 
-  Reach me via email at johnniesimpson88@gmail.com.
+  If you have questions, you can reach me via email at johnniesimpson88@gmail.com.
 
   ## Licenses
- Licensed under [MPL 2.0](https://opensource.org/licenses/MPL-2.0)
+ Licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0)
 
