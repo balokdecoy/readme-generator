@@ -1,6 +1,6 @@
 # My Linux Project
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
 
   ## Table of Contents
 
@@ -20,7 +20,7 @@
 
   ## Description
 
-  This is my application for Linux.
+  This is what my linux project does.
 
   ## Installation
 
@@ -29,16 +29,18 @@
   ```
   ## Usage
 
-  You can use the program in a variety of ways.
+  Here is how you use my project
 
   ## Contributing
 
-  Ask me about contributing to Linux Project!
+  You can contribute here
 
   ## Tests
 
-  You can test the program by running some test code.
+  ```bash
+  testme code
 
+  ```
   ## Questions
 
   Visit my Github profile at http://www.github.com/balokdecoy.
@@ -46,5 +48,5 @@
   If you have questions, you can reach me via email at johnniesimpson88@gmail.com.
 
   ## Licenses
- Licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0)
+ Licensed under [LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)
 

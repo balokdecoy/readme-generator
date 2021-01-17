@@ -33,7 +33,7 @@ inquirer
     {
       type: 'input',
       name: 'tests',
-      message: 'Enter test instructions',
+      message: 'Enter program test code',
     },
     {
       type: 'list',

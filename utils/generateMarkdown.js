@@ -90,7 +90,9 @@ function generateMarkdown(response) {
   ## Contributing\n
   ${response.contributors}\n
   ## Tests\n
+  \`\`\`bash
   ${response.tests}\n
+  \`\`\`
   ## Questions\n
   Visit my Github profile at http://www.github.com/${response.githubProfile}.\n
   If you have questions, you can reach me via email at ${response.email}.\n
