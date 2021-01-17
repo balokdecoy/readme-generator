@@ -1,6 +1,6 @@
-# LinuxProject
+# linuxproject
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   ## Table of Contents
 
@@ -20,26 +20,30 @@
 
   ## Description
 
-  This is a linux project
+  describe me
 
   ## Installation
 
   ```bash
-  sudo apt install linuxproject
+  install me
   ```
   ## Usage
 
-  You can use the program like this
+  use me
 
   ## Contributing
 
-  You can contribute like this
+  contribute to me
 
   ## Tests
 
-  You can test like this
+  test me
 
   ## Questions
 
   ## Licenses
+
+  undefined
+
+  [![License: IPL 1.0](https://opensource.org/licenses/IPL-1.0)]
 
