@@ -1,6 +1,6 @@
-# testme
+# LinuxProject
 
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
 
@@ -20,7 +20,7 @@
 
   ## Description
 
-  description of project
+  This is a linux project
 
   ## Installation
 
@@ -29,15 +29,15 @@
   ```
   ## Usage
 
-  how to use this
+  You can use the program like this
 
   ## Contributing
 
-  you can contribute like this
+  You can contribute like this
 
   ## Tests
 
-  you can test like this
+  You can test like this
 
   ## Questions
 
