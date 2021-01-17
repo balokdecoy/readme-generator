@@ -37,15 +37,15 @@ git clone (SSH key you copied in step 2)
 ```
 sudo apt install nodejs
 ```
-4. Install npm inquirer
+5. Install npm inquirer
 ```
 npm i inquirer
 ```
-5. Install npm file-system
+6. Install npm file-system
 ```
 npm install file-system --save
 ```
-6. Execute program by entering under the forked file directory: 
+7. Execute program by entering under the forked file directory: 
 ```
 node index.js
 ```
