@@ -30,9 +30,9 @@ Installation instructions are for Linux operating systems. Other OS instructions
 1. Fork the repository. Click the fork button at the top right of this repo. 
 2. Clone the repository to your machine. Click the Clone button on your forked repo page, copy the SSH key. 
 3. Open a terminal session and enter: 
-\`\`\`bash
+```
 git clone (SSH key you copied in step 2)
-\`\`\`
+```
 
 
 ## Usage
