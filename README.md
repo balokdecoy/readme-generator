@@ -53,6 +53,9 @@ node index.js
 ## Usage
 
 ## Contributing 
+README Generator is open source. Please feel free to fork the repo and modify as you wish. 
+
+If you would like a pull request for major application changes, please contact me. Contact information in the [Questions](#questions) section.
 
 ## Tests 
 Test that you have the latest version of NodeJS:
@@ -61,6 +64,8 @@ node -v
 ```
 
 ## Questions
+Visit my Github page at https://github.com/balokdecoy. 
+You can reach me via email at johnniesimpson88@gmail.com. 
 
 ## Licenses
 This project is licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0).
