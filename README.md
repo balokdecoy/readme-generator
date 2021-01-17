@@ -3,21 +3,21 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Table of Contents
--[Description](#description)
+- [Description](#description)
 
--[Screenshots](#screenshots)
+- [Screenshots](#screenshots)
 
--[Installation](#installation)
+- [Installation](#installation)
 
--[Usage](#usage)
+- [Usage](#usage)
 
--[Contributing](#contributing)
+- [Contributing](#contributing)
 
--[Tests](#tests)
+- [Tests](#tests)
 
--[Questions](#questions)
+- [Questions](#questions)
 
--[Licenses](#licenses)
+- [Licenses](#licenses)
 
 ## Description
 README Generator is a CLI program that creates a README.md file based on user inputs. A video demonstrating program use can be viewed in the [Usage](#usage) section.
