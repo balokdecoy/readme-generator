@@ -8,13 +8,27 @@ inquirer
     {
       type: 'input',
       name: 'title',
-      message: 'What is the name of your project?',
+      message: 'Enter project name',
     },
     {
-      type: 'checkbox',
-      message: 'What languages do you know?',
-      name: 'stack',
-      choices: ['HTML', 'CSS', 'JavaScript', 'MySQL'],
+      type: 'input',
+      name: 'description',
+      message: 'Enter project description',
+    },
+    {
+      type: 'input',
+      name: 'installation',
+      message: 'Enter installation command',
+    },
+    {
+      type: 'input',
+      name: 'usage',
+      message: 'Enter usage instructions',
+    },
+    {
+      type: 'input',
+      name: 'contributors',
+      message: 'Enter contribution guidelines',
     },
     {
       type: 'list',

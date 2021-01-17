@@ -1,20 +1,41 @@
-# clear
+# MyProject
 
   ## Table of Contents
 
   - [Description](#description)
 
-  ##Description
+  - [Installation](#installation)
 
-  [Installation]
+  - [Usage](#usage)
 
-  [Usage]
+  - [Contributing](#contributing)
 
-  [Contributing]
+  - [Tests](#tests)
 
-  [Tests]
+  - [Licenses](#licenses)
 
-  [Questions?]
+  - [Questions](#questions?)
 
-  [Licenses]
+  ## Description
+
+  A new application
+
+  ## Installation
+
+  ```bash
+  sudo install myproject
+  ```
+  ## Usage
+
+  You can use this program to do stuff.
+
+  ## Contributing
+
+  You can contribute by emailing me.
+
+  ## Tests
+
+  ## Questions?
+
+  ## Licenses
 

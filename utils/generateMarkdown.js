@@ -15,13 +15,25 @@ function generateMarkdown(response) {
   return `# ${response.title}\n
   ## Table of Contents\n
   - [Description](#description)\n
-  ##Description\n
-  [Installation]\n
-  [Usage]\n
-  [Contributing]\n
-  [Tests]\n
-  [Questions?]\n
-  [Licenses]\n
+  - [Installation](#installation)\n
+  - [Usage](#usage)\n
+  - [Contributing](#contributing)\n
+  - [Tests](#tests)\n
+  - [Licenses](#licenses)\n
+  - [Questions](#questions?)\n
+  ## Description\n
+  ${response.description}\n
+  ## Installation\n
+  \`\`\`bash
+  ${response.installation}
+  \`\`\`
+  ## Usage\n
+  ${response.usage}\n
+  ## Contributing\n
+  ${response.contributors}\n
+  ## Tests\n
+  ## Questions?\n
+  ## Licenses\n
 `;
 }
 
