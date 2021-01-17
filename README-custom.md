@@ -1,6 +1,6 @@
-# Test Project
+# A Linux Project
 
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
   ## Table of Contents
 
@@ -20,25 +20,25 @@
 
   ## Description
 
-  This is a Linux project!
+  This program is for Linux!
 
   ## Installation
 
   ```bash
-  sudo apt install linuxproject
+  sudo apt install mylinuxproject
   ```
   ## Usage
 
-  You can use the app like this!
+  You can use the program like this!
 
   ## Contributing
 
-  You can contribute too.
+  You can contribute here
 
   ## Tests
 
   ```bash
-  testing testing 1-2-3
+  testing testing 123
 
   ```
   ## Questions
@@ -48,5 +48,5 @@
   If you have questions, you can reach me via email at johnniesimpson88@gmail.com.
 
   ## Licenses
- Licensed under [GPL v3](https://www.gnu.org/licenses/gpl-3.0)
+ Licensed under [Eclipse 1.0](https://opensource.org/licenses/EPL-1.0)
 
