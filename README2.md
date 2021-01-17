@@ -1,6 +1,6 @@
-# My Linux Project
+# no license required!
 
-  [![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://www.gnu.org/licenses/lgpl-3.0)
+  
 
   ## Table of Contents
 
@@ -20,25 +20,25 @@
 
   ## Description
 
-  This is what my linux project does.
+  this is a project with no license
 
   ## Installation
 
   ```bash
-  sudo apt install linuxproject
+  you install like this
   ```
   ## Usage
 
-  Here is how you use my project
+  here's how to use it
 
   ## Contributing
 
-  You can contribute here
+  you can contribute here
 
   ## Tests
 
   ```bash
-  testme code
+  test test 123
 
   ```
   ## Questions
@@ -47,6 +47,5 @@
 
   If you have questions, you can reach me via email at johnniesimpson88@gmail.com.
 
-  ## Licenses
- Licensed under [LGPL v3](https://www.gnu.org/licenses/lgpl-3.0)
+  
 
